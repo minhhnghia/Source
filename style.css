@@ -8,6 +8,14 @@ ul{
     box-sizing: border-box; /* Tuỳ chọn: giúp tính toán kích thước đúng đắn */
 }
 
+/* FONT */
+@font-face {
+    font-family: Rojal;
+    src: url("../Source/Rojal.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* HEADER */
 .container-header {
     background-color: white;
