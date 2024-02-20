@@ -10,7 +10,7 @@ ul{
 
 /* FONT */
 @font-face {
-    font-family: Rojal;
+    font-family: "Rojal";
     src: url("../Source/Rojal.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -108,7 +108,7 @@ nav{
 
 /* Main name */
 #main-name-text{
-    font-family: "Rojal";
+    font-family: 'Rojal';
     font-size: 80px;
     color: black;
     text-decoration: none;
