@@ -1841,3 +1841,962 @@ nav{
     height: auto;
     position: absolute;
 }
+
+/* BLOCK 9 */
+.container-block-9{
+    margin: 0;
+    width: 930px;
+    height: 10000px;
+    position: absolute;
+    top: 4661px;
+    left: 319px;
+}
+
+/* News 22 */
+#news-22{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 0;
+}
+
+#pic-22 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-22{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-22{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-22{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 23 */
+#news-23{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 270px;
+}
+
+#pic-23 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-23{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-23{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-23{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 24 */
+#news-24{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 540px;
+}
+
+#pic-24 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-24{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-24{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-24{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 192px;
+    left: 360px;
+}
+
+/* News 25 */
+#news-25{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 810px;
+}
+
+#pic-25 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-25{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-25{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-25{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 192px;
+    left: 360px;
+}
+
+/* News 26 */
+#news-26{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 1080px;
+}
+
+#pic-26 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-26{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-26{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-26{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 192px;
+    left: 360px;
+}
+
+/* News 27 */
+#news-27{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 1350px;
+}
+
+#pic-27 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-27{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-27{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-27{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 28 */
+#news-28{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 1620px;
+}
+
+#pic-28 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-28{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-28{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-28{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* HORIZONTAL BANNER 3 */
+#container-h-banner-3{
+    margin: 0;
+    width: 930px;
+    height: 270px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 1880px;
+}
+
+#h-banner-3 img{
+    margin: 0;
+    width: 930px;
+    height: 250px;
+    position: absolute;
+    top: 10px;
+}
+
+/* News 29 */
+#news-29{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 2160px;
+}
+
+#pic-29 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-29{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-29{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-29{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 30 */
+#news-30{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 2430px;
+}
+
+#pic-30 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-30{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-30{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-30{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 31 */
+#news-31{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 2700px;
+}
+
+#pic-31 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-31{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-31{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-31{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 32 */
+#news-32{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 2970px;
+}
+
+#pic-32 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-32{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-32{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-32{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 33 */
+#news-33{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 3240px;
+}
+
+#pic-33 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-33{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-33{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-33{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 34 */
+#news-34{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 3510px;
+}
+
+#pic-34 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-34{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-34{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-34{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 35 */
+#news-35{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 3780px;
+}
+
+#pic-35 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-35{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-35{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-35{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 36 */
+#news-36{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 4050px;
+}
+
+#pic-36 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-36{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-36{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-36{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 37 */
+#news-37{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 4320px;
+}
+
+#pic-37 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-37{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-37{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-37{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 38 */
+#news-38{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 4590px;
+}
+
+#pic-38 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-38{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-38{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-38{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 39 */
+#news-39{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 4860px;
+}
+
+#pic-39 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-39{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-39{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-39{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
+
+/* News 40 */
+#news-40{
+    margin: 0;
+    width: 930px;
+    height: 260px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+    position: absolute;
+    top: 5130px;
+}
+
+#pic-40 img{
+    margin: 0;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+}
+
+#title-40{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#sub-40{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 110px;
+    left: 360px;
+    text-decoration: none;
+}
+
+#author-40{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    top: 174px;
+    left: 360px;
+}
