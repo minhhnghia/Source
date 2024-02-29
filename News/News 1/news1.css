@@ -97,7 +97,7 @@ nav{
 
 /* Main name */
 #main-name-text{
-    font-family: 'Rojal';
+    font-family: 'Rojal', serif;
     font-size: 80px;
     color: black;
     text-decoration: none;
@@ -108,7 +108,7 @@ nav{
 
 /* Sub name */
 #sub-name-text{
-    font-family: 'Old Standard TT';
+    font-family: 'Old Standard TT', serif;
     font-size: 15px;
     font-weight: bold;
     color: black;
