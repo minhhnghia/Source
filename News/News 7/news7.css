@@ -17,7 +17,7 @@ body {
 /* FONT */
 @font-face {
     font-family: "Rojal";
-    src: url("../Source/Rojal.ttf") format('truetype');
+    src: url("../../Rojal.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -48,10 +48,6 @@ body {
 
 #header{
     background-color: #e4e6ed;
-    padding: 2px 8px;
-    position: fixed;
-    top: 0;
-    left: 0;
     width: 100%;
     z-index: 9999;
 }
