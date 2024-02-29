@@ -70,23 +70,6 @@ nav{
     text-decoration: none;
 }
 
-/* Buttons */
-.container-menu-button{
-    position: absolute;
-    top: 18px;
-    left: 1600px;
-}
-
-#button-1 img{
-    width: 119px;
-    height: 35px;
-}
-
-#button-2 img{
-    width: 119px;
-    height: 35px;
-}
-
 /* Decor img */
 #header-decor img{
     width: 238px;
@@ -145,37 +128,6 @@ nav{
     top: 10px;
 }
 
-/* Theme */
-#theme{
-    font-family: 'Roboto Condensed';
-    color:black;
-    opacity: 0.3;
-    position: absolute;
-    left: 1760px;
-    top: 10px;
-    text-decoration: none;
-}
-
-#light{
-    font-family: 'Roboto Condensed';
-    font-weight: bold;
-    color:black;
-    opacity: 0.3;
-    position: absolute;
-    left: 1815px;
-    top: 10px;
-    text-decoration: underline;
-}
-
-#dark{
-    font-family: 'Roboto Condensed';
-    color:black;
-    opacity: 0.3;
-    position: absolute;
-    left: 1860px;
-    top: 10px;
-    text-decoration: none;
-}
 
 /* TOP THE BEST SELLER CARS OF THE MONTH */
 .container-best-seller{
