@@ -2843,24 +2843,6 @@ nav{
     position: absolute;
 }
 
-/* VERTICAL BANNER 5 */
-.container-block-12{
-    margin: 0;
-    height: 652px;
-    width: 326px;
-    position: absolute;
-    top: 1314px;
-    left: 940px;
-
-}
-
-#vertical-banner-5 img{
-    margin: 0;
-    width: 326px;
-    height: auto;
-    position: absolute;
-}
-
 /* VERTICAL SUB NEWS */
 .v-sub-news{
     margin: 0;
